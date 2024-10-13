@@ -3,3 +3,8 @@ class testfile{
         System.out.println();
     }
 }
+
+class another test {
+    final int x;
+    final int y;
+}
