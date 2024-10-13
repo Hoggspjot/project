@@ -3,3 +3,10 @@ class testfile{
         System.out.println();
     }
 }
+
+
+class  test{
+    private int x;
+    private int y;
+
+}
